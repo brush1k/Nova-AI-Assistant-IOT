@@ -31,10 +31,10 @@ NOVA-AI — это концепция бессерверного AI голосо
 
 🔌 Требуемое оборудование
 Рекомендуемые компоненты
-Контроллер: Плата разработки ESP32 (рекомендуется ESP32-S3).(https://www.ozon.ru/product/modul-plata-esp32-s3-devkitc-1-type-c-1956181506/?at=83tB1pPP9FW5kq8Nf44qPkwtywBDlYu3EqrJxFg20qy2)
-Аудиоусилитель: MAX98357A или аналогичный I2S усилитель. (https://www.ozon.ru/product/modul-tsifrovogo-unch-s-tsap-i2s-1x3-2-vt-uvh-2-5-5-5-v-max98357-1757505633/?at=36tWqz99ZcDx5jWWs95WY1XsOBolBJIO0YkyoUWX5KYZ)
-Микрофон: INMP441 I2S MEMS микрофон. (https://www.avito.ru/moskva/audio_i_video/inmp441_modul_vsenapravlennogo_mikrofona_mems_7517059725?slocation=628970&context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJWZjVwMDFUS21IN051dUtzIjt9qio0zD8AAAA)
-Динамик: Динамик 4Ω 3W или наушники. (https://www.ozon.ru/product/dinamik-3-vt-4-om-1-sht-2551515106/?at=A6tG4AlljcMV0mxPIMnEjw8FG9VQ2PsBvmGY3h398YKl)
+Контроллер: [Плата разработки ESP32 (рекомендуется ESP32-S3).](https://www.ozon.ru/product/modul-plata-esp32-s3-devkitc-1-type-c-1956181506/?at=83tB1pPP9FW5kq8Nf44qPkwtywBDlYu3EqrJxFg20qy2)
+Аудиоусилитель: [MAX98357A или аналогичный I2S усилитель.] (https://www.ozon.ru/product/modul-tsifrovogo-unch-s-tsap-i2s-1x3-2-vt-uvh-2-5-5-5-v-max98357-1757505633/?at=36tWqz99ZcDx5jWWs95WY1XsOBolBJIO0YkyoUWX5KYZ)
+Микрофон: [INMP441 I2S MEMS микрофон.] (https://www.avito.ru/moskva/audio_i_video/inmp441_modul_vsenapravlennogo_mikrofona_mems_7517059725?slocation=628970&context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJWZjVwMDFUS21IN051dUtzIjt9qio0zD8AAAA)
+Динамик: [Динамик 4Ω 3W или наушники.] (https://www.ozon.ru/product/dinamik-3-vt-4-om-1-sht-2551515106/?at=A6tG4AlljcMV0mxPIMnEjw8FG9VQ2PsBvmGY3h398YKl)
 
 👥 Планируемые пользователи и сценарии применения
 Этот проект ориентирован на широкую аудиторию, от новичков в электронике до опытных разработчиков.
